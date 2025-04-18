@@ -61,85 +61,76 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "skills": [  
-    {  
-      "name": "Cybersecurity",  
-      "level": "Expert",  
-      "icon": "fa-solid fa-shield-halved",  
-      "keywords": [  
-        "Penetration Testing",  
-        "Vulnerability Analysis",  
-        "Threat Intelligence",  
-        "Incident Response",  
-        "Malware Analysis",  
-        "SIEM Tools",  
-        "Zero Trust Architecture",  
-        "Disaster Recovery",  
-        "Compliance Standards",  
-        "Risk Assessment"  
-      ]  
-    },  
-    {  
-      "name": "Network Security",  
-      "level": "Expert",  
-      "icon": "fa-solid fa-network-wired",  
-      "keywords": [  
-        "Firewall/IDS/IPS Configuration",  
-        "CISCO CCNA",  
-        "DHCP/DNS/TCP/IP",  
-        "LAN/WAN Design",  
-        "Network Security Monitoring",  
-        "Cloud Security (AWS, O365)",  
-        "Data Loss Prevention (DLP)"  
-      ]  
-    },  
-    {  
-      "name": "Systems Administration",  
-      "level": "Advanced",  
-      "icon": "fa-solid fa-server",  
-      "keywords": [  
-        "Windows/Linux/UNIX Server Administration",  
-        "Endpoint Security",  
-        "Telecommunications (BTS, Optical Fiber)",  
-        "AWS Infrastructure",  
-        "Log Correlation Tools",  
-        "Forensic Analysis"  
-      ]  
-    },  
-    {  
-      "name": "Programming & Scripting",  
-      "level": "Advanced",  
-      "icon": "fa-solid fa-code",  
-      "keywords": [  
-        "Python",  
-        "C/C++",  
-        "SQL",  
-        "MATLAB",  
-        "Automation Scripting",  
-        "Web Application Security"  
-      ]  
-    },  
-    {  
-      "name": "Certifications",  
-      "level": "Professional",  
-      "icon": "fa-solid fa-certificate",  
-      "keywords": [  
-        "CISSP (Certified Information Systems Security Professional)"  
-      ]  
-    },  
-    {  
-      "name": "Management & Leadership",  
-      "level": "Advanced",  
-      "icon": "fa-solid fa-people-group",  
-      "keywords": [  
-        "Team Leadership",  
-        "Security Policy Development",  
-        "Client Relationship Management",  
-        "Mentorship",  
-        "Stakeholder Communication",  
-        "Incident Remediation"  
-      ]  
-    }  
+  "skills": [
+    {
+      "name": "Cybersecurity",
+      "level": "Expert",
+      "icon": "fa-solid fa-shield-halved",
+      "keywords": [
+        "Penetration Testing",
+        "Vulnerability Analysis",
+        "Threat Intelligence",
+        "Incident Response",
+        "Malware Analysis",
+        "SIEM Tools",
+        "Zero Trust Architecture",
+        "Disaster Recovery",
+        "Compliance Standards",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Network Security",
+      "level": "Expert",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [
+        "Firewall/IDS/IPS Configuration",
+        "CISCO CCNA",
+        "DHCP/DNS/TCP/IP",
+        "LAN/WAN Design",
+        "Network Security Monitoring",
+        "Cloud Security (AWS, O365)",
+        "Data Loss Prevention (DLP)"
+      ]
+    },
+    {
+      "name": "Systems Administration",
+      "level": "Advanced",
+      "icon": "fa-solid fa-server",
+      "keywords": [
+        "Windows/Linux/UNIX Server Administration",
+        "Endpoint Security",
+        "Telecommunications (BTS, Optical Fiber)",
+        "AWS Infrastructure",
+        "Log Correlation Tools",
+        "Forensic Analysis"
+      ]
+    },
+    {
+      "name": "Programming & Scripting",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "C/C++", "SQL", "MATLAB", "Automation Scripting", "Web Application Security"]
+    },
+    {
+      "name": "Certifications",
+      "level": "Professional",
+      "icon": "fa-solid fa-certificate",
+      "keywords": ["CISSP (Certified Information Systems Security Professional)"]
+    },
+    {
+      "name": "Management & Leadership",
+      "level": "Advanced",
+      "icon": "fa-solid fa-people-group",
+      "keywords": [
+        "Team Leadership",
+        "Security Policy Development",
+        "Client Relationship Management",
+        "Mentorship",
+        "Stakeholder Communication",
+        "Incident Remediation"
+      ]
+    }
   ],
   "languages": [
     {
@@ -163,20 +154,20 @@
       "name": "Cyber Security",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Defence in Depth",  
-        "Vulnerability and Patch Management",  
-        "Cryptography",  
-        "Incident Response",  
-        "Threat Intelligence",  
-        "Zero Trust Architecture",  
-        "Security Information and Event Management",  
-        "Penetration Testing",  
-        "Multi-Factor Authentication (MFA)",  
-        "Network Security Monitoring",  
-        "Advanced Persistent Threat (APT)",  
-        "Data Loss Prevention (DLP)",  
-        "Endpoint Detection and Response (EDR)",  
-        "Cloud Security Posture Management",  
+        "Defence in Depth",
+        "Vulnerability and Patch Management",
+        "Cryptography",
+        "Incident Response",
+        "Threat Intelligence",
+        "Zero Trust Architecture",
+        "Security Information and Event Management",
+        "Penetration Testing",
+        "Multi-Factor Authentication (MFA)",
+        "Network Security Monitoring",
+        "Advanced Persistent Threat (APT)",
+        "Data Loss Prevention (DLP)",
+        "Endpoint Detection and Response (EDR)",
+        "Cloud Security Posture Management",
         "Red Team/Blue Team Exercises"
       ]
     }
