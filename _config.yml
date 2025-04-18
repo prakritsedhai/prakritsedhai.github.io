@@ -123,12 +123,14 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: Light and Shadow
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://allpoetry.com/poem/12177806-Light-and-Shadow-by-Suman-Sedhai
+        published_date: 2015-07-15
+  - name: What it is like to be a Poet?
+    posts:
+      - url: https://allpoetry.com/poem/12175514--What-is-to-be-like-a-poet----by-Suman-Sedhai
+        published_date: 2015-07-15
 
 # -----------------------------------------------------------------------------
 # Newsletter
