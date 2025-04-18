@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -407,11 +393,21 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-atomic-habits-an-easy-amp-proven-way-to-build-good-habits-amp-break-bad-ones",
+          title: 'Atomic Habits - An Easy &amp;amp; Proven Way to Build Good Habits &amp;amp;...',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/atomichabits/";
+            },},{id: "books-isc-cissp-certified-information-systems-security-professional-official-study-guide",
+          title: '(ISC)² CISSP Certified Information Systems Security Professional Official Study Guide',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/cissp_official_study_guide/";
+            },},{id: "books-how-not-to-be-wrong-the-power-of-mathematical-thinking",
+          title: 'How Not to Be Wrong- The Power of Mathematical Thinking',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hownottobewrong/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
