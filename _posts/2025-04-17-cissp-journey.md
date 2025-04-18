@@ -16,19 +16,20 @@ In this blog post, I’ll share the resources I used, how I structured my prepar
 
 I took a blended approach to studying — using videos, mind maps, practice questions, and books. Here’s a breakdown of what helped me most:
 
-1. [Prabh Nair](https://www.linkedin.com/in/ACoAAArK-_sBBlCfhaGFF_3CASSoX1HQhmkVx0o) - *Coffee Shots*: Daily short videos that cover CISSP concepts concisely. You can check them out [here](https://lnkd.in/gB9xwSng). Highly recommended for quick revision.
+1. [Prabh Nair](https://www.linkedin.com/in/ACoAAArK-_sBBlCfhaGFF_3CASSoX1HQhmkVx0o) - _Coffee Shots_: Daily short videos that cover CISSP concepts concisely. You can check them out [here](https://lnkd.in/gB9xwSng). Highly recommended for quick revision.
 
 2. [Destination Certification Inc.](https://www.linkedin.com/company/destination-certification/) - I followed their mind map videos on YouTube and downloaded the domain summaries from their website. The visual approach made it easy to connect topics.
 
 3. [Professor Messer](https://www.linkedin.com/company/professormesser/) - Fantastic resource for clarifying network security concepts. His videos are clear and well-organized.
 
-4. [Luke Ahmed 🚀](https://www.linkedin.com/in/ACoAACCowTYBGhm3wXYCO2YL4lcTk1-3e6p2OwI) - His strategy on *how to think like a manager* is something every CISSP aspirant should follow. The exam tests managerial decision-making, not just technical knowledge.
+4. [Luke Ahmed 🚀](https://www.linkedin.com/in/ACoAACCowTYBGhm3wXYCO2YL4lcTk1-3e6p2OwI) - His strategy on _how to think like a manager_ is something every CISSP aspirant should follow. The exam tests managerial decision-making, not just technical knowledge.
 
 5. **Practice Questions**:
+
    - I used **Quantum Exams** extensively.
    - The **Sybex Official Study Guide** practice questions were also a key part of my prep.
 
-6. **Andrew Ramdayal** - His *50 CISSP Practice Questions* on YouTube were great for getting a feel of exam scenarios.
+6. **Andrew Ramdayal** - His _50 CISSP Practice Questions_ on YouTube were great for getting a feel of exam scenarios.
 
 ## How I Studied
 
@@ -45,14 +46,14 @@ I passed the CISSP exam in **100 questions**, with almost **1 hour left on the c
 ## Final Thoughts
 
 If you’re preparing for the CISSP, my advice would be:
+
 - **Book the exam date first**. It creates accountability.
 - Use a mix of video, mind maps, and practice questions.
-- Focus on understanding the *why* behind every decision.
+- Focus on understanding the _why_ behind every decision.
 - Take consistent notes and revise them regularly.
 
 If you’re a note-taking fan like me, give **Obsidian + GitHub** a try — it made my prep much smoother.
 
 ---
 
-*Good luck on your CISSP journey!* 🚀
-
+_Good luck on your CISSP journey!_ 🚀
