@@ -3,8 +3,7 @@
     "name": "Suman Sedhai",
     "label": "Cyber Security Engineer",
     "image": "",
-    "email": "sumansedhai01@gmail.com",
-    "phone": "(204) 979-8804",
+    "email": "sumansedhai01@gmail[.]com",
     "url": "https://sumansedhai.com",
     "summary": "Cyber Security Engineer with over six years of experience in safeguarding enterprise systems, reducing vulnerabilities, and optimizing security postures for global clients.",
     "location": {
@@ -28,7 +27,7 @@
       "position": "Cyber Security Engineer",
       "url": "https://www.arcticwolf.com",
       "startDate": "2022-06-16",
-      "endDate": "1955-01-01",
+      "endDate": "Current",
       "summary": "Proactive Security Engineer reducing vulnerabilities and breaches through strategic partnerships, threat analysis, and system optimization, ensuring high availability while mentoring teams and collaborating cross-functionally.",
       "highlights": ["Cyber Security"]
     },
@@ -45,7 +44,7 @@
   "education": [
     {
       "institution": "The University of Winnipeg",
-      "location": "Winnipeg, Manitoba, Canada",
+      "location": "Winnipeg, Manitoba",
       "url": "https://www.uwinnipeg.ca/",
       "area": "Network and Cyber Security",
       "studyType": "Post Graduate Diploma",
@@ -170,7 +169,7 @@
         "Incident Response",  
         "Threat Intelligence",  
         "Zero Trust Architecture",  
-        "Security Information and Event Management (SIEM)",  
+        "Security Information and Event Management",  
         "Penetration Testing",  
         "Multi-Factor Authentication (MFA)",  
         "Network Security Monitoring",  

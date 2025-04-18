@@ -24,13 +24,13 @@ latest_posts:
 ---
 
 **About Me**  
-👨💻 Cyber Security Engineer with over six years of experience in safeguarding enterprise systems, reducing vulnerabilities by 70%, and optimizing security postures for global clients. Holding a Bachelor’s in Electronics and Computer Engineering and a Postgraduate Diploma in Network Security, I blend technical expertise with strategic risk management to align security solutions with business goals. Certified as a CISSP professional, I thrive in fast-paced environments—whether leading incident response teams, mentoring junior analysts, or architecting cloud and on-premises security frameworks.  
+👨💻 Cyber Security Engineer with over six years of experience in safeguarding enterprise systems, reducing vulnerabilities, and optimizing security postures for global clients. Holding a Bachelor’s in Electronics and Computer Engineering and a Postgraduate Diploma in Network Security, I blend technical expertise with strategic risk management to align security solutions with business goals. Certified as a CISSP professional, I thrive in fast-paced environments—whether leading incident response teams, mentoring junior analysts, or architecting cloud and on-premises security frameworks.  
 
 🔒 **Key Achievements**:  
 - Spearheaded threat containment efforts that slashed breach incidents while I am at Arctic Wolf.  
-- Helped organization to designe and maintain network security systems (firewalls, IDS, proxies) ensuring high uptime for critical infrastructure.  
+- Helped organization to design and maintain network security systems (firewalls, IDS, proxies) ensuring high uptime for critical infrastructure.  
 - Authored company-wide IT security policies and best practices at MacDon Industries, enhancing system resilience.  
-- Pioneered LAN/WAN designs and optical fiber backup systems for 200+ BTS sites in Nepal, minimizing downtime.  
+- Pioneered LAN/WAN designs and optical fiber backup systems for BTS sites in Nepal, minimizing downtime while working at UTL  
 
 📚 **Education & Passion Projects**:  
 - **Post Degree Diploma, Network Security** (University of Winnipeg)  
