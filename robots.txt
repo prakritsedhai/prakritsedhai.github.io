@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://prakritsedhai.github.io/sitemap.xml
+Sitemap: https://www.sumansedhai.com/sitemap.xml
