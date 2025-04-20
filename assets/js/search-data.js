@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-my-cissp-journey-how-i-passed-in-100-questions",
+        },{id: "post-10-google-search-tips-every-coder-should-know",
+        
+          title: "10 Google Search Tips Every Coder Should Know",
+        
+        description: "Master Google search like a pro developer with these coding-focused tips.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/google_search_tips_for_coders/";
+          
+        },
+      },{id: "post-my-cissp-journey-how-i-passed-in-100-questions",
         
           title: "My CISSP Journey: How I Passed in 100 Questions",
         
