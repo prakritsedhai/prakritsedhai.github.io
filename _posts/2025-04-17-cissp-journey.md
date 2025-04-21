@@ -4,6 +4,7 @@ title: "My CISSP Journey: How I Passed in 100 Questions"
 date: 2025-04-17
 categories: [cybersecurity, certification]
 tags: [CISSP, certification, cybersecurity, study-resources]
+comments: true
 ---
 
 ## Introduction

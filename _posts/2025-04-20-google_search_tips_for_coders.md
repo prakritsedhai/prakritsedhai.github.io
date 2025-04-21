@@ -5,6 +5,7 @@ date: 2025-04-20 16:57:42
 description: Master Google search like a pro developer with these coding-focused tips.
 tags: google-search coding productivity tips
 categories: coding-guides
+comments: true
 ---
 
 If you're a programmer, you probably spend a good part of your day searching Google for solutions to bugs, syntax reminders, or obscure documentation. While Google is already powerful, a few search tricks can make it even better for coders.

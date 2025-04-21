@@ -5,6 +5,7 @@ date: 2025-04-20 14:30:00
 description: Discover how Obsidian is redefining personal knowledge management with linked notes and local-first privacy.
 tags: [obsidian, note-taking, productivity, apps]
 categories: [productivity-tools]
+comments: true
 ---
 
 ### What is Obsidian Note-Taking App?
