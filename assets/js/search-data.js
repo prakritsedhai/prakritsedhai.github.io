@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/google_search_tips_for_coders/";
           
         },
+      },{id: "post-exploring-obsidian-a-next-gen-note-taking-app",
+        
+          title: "Exploring Obsidian: A Next-Gen Note-Taking App",
+        
+        description: "Discover how Obsidian is redefining personal knowledge management with linked notes and local-first privacy.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/exploring-obsidian-a-next-gen-note-taking-app/";
+          
+        },
       },{id: "post-my-cissp-journey-how-i-passed-in-100-questions",
         
           title: "My CISSP Journey: How I Passed in 100 Questions",
