@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Why did the developer go broke? Because he kept pushing to **master** but never made a **commit** to his savings account. 
+description: Why did the developer go broke? Because he kept pushing to **master** but never made a **commit** to his savings account.
 nav: true
 nav_order: 4
 ---

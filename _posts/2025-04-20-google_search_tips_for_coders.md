@@ -14,63 +14,63 @@ Inspired by [Lifehack](https://www.lifehack.org/articles/technology/20-tips-use-
 #### Handy Google Search Tricks for Coders
 
 - **Search Within a Specific Site**
-  
+
   Find results only from Stack Overflow:
-  
+
   `site:stackoverflow.com Python list comprehension`
 
 - **Search for File Types**
-  
+
   Discover Python cheat sheets in PDF format:
-  
+
   `python cheat sheet filetype:pdf`
 
 - **Use Quotes for Exact Matches**
-  
+
   Look for an exact error message:
-  
+
   `"TypeError: unsupported operand type(s) for +: 'int' and 'str'"`
 
 - **Exclude Words**
-  
+
   Exclude Java when searching for 'Python tutorials':
-  
+
   `python tutorials -java`
 
 - **Wildcard Searches**
-  
+
   Use `*` as a wildcard placeholder:
-  
+
   `"how to * in Python"`
 
 - **OR Operator**
-  
+
   Find results for either C++ or Java tutorials:
-  
+
   `C++ tutorials OR Java tutorials`
 
 - **Search by Time Range**
-  
+
   Discover recent AI frameworks from the past year:
-  
+
   `AI frameworks after:2024-01-01`
 
 - **Use Related Sites**
-  
+
   Find sites similar to GitHub:
-  
+
   `related:github.com`
 
 - **Convert Units or Currency**
-  
+
   Google can convert programming time estimates too:
-  
+
   `3 hours to minutes`
 
 - **Check Definitions Quickly**
-  
+
   Instantly look up definitions of CS terms:
-  
+
   `define:encapsulation`
 
 #### Bonus Inspiration
@@ -81,4 +81,3 @@ Inspired by [Lifehack](https://www.lifehack.org/articles/technology/20-tips-use-
 <hr>
 
 For more coding productivity guides, check out my [website](https://sumansedhai.com) site and follow along as I build more contents.
-
